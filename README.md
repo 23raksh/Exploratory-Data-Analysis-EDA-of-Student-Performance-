@@ -4,7 +4,7 @@ EDA - pandas - numpy - seaborn - matplotlib
 ![image](https://github.com/23raksh/Exploratory-Data-Analysis-EDA-of-Student-Performance-/assets/98457926/dfb59357-b02b-4002-84de-17080d79ea0c)
 
 ## Objective:
-In this EDA project, we delve into a comprehensive dataset capturing various aspects of student performance in academic assessments. The dataset encompasses crucial features such as gender, race/ethnicity, parental level of education, lunch type, test preparation course completion status, as well as scores in math, reading, and writing.
+In this EDA project, we delve into a comprehensive dataset capturing various aspects of student performance. The dataset encompasses crucial features such as gender, race/ethnicity, parental level of education, lunch type, test preparation course completion status, as well as scores in math, reading, and writing.
 
 The dataset provides a rich source of information that allows us to explore questions such as:
 
